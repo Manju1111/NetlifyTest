@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.3",
+    "npm": "^6.11.2",
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-bootstrap-dropdown-menu": "^1.1.15",
