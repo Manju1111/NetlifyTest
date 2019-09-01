@@ -16,9 +16,9 @@ import {Container, Col, Form,FormGroup, Label, Input,Button,Row} from 'reactstra
 const Home=()=>(
    <section> <h1>Home</h1>
     <h3>The way of marreges</h3>
-    <h2>this web is live with Netfliy with URL: https://suspicious-leakey-152d1c.netlify.com</h2>
+    <h3>this web is live with Netfliy with URL: https://suspicious-leakey-152d1c.netlify.com</h3>
     
-    <h2>this web is live with Netfliy with updated URLV1.1:below link</h2>
+    <h2>updated URLV1.1:below link</h2>
         <a href="https://manju43.netlify.com/">click here for live /manju43.netlify.com</a>
     </section>
 )
