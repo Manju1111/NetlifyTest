@@ -1,0 +1,14 @@
+
+.Registration{
+    padding: 60px 0;
+  }
+  .form-control{
+    margin: 0 auto;
+    max-width: 450px;
+  }
+  .heading{
+    text-align: center;
+  }
+  .vali{
+    color: red;
+  }
