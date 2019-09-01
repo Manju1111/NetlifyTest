@@ -14,7 +14,7 @@ import {Container, Col, Form,FormGroup, Label, Input,Button,Row} from 'reactstra
 
 
 const Home=()=>(
-   <section> <h1>Home</h1>
+   <section> <h1>Hom</h1>
     <h3>The way of marreges</h3></section>
 )
 
